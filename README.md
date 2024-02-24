@@ -1,6 +1,6 @@
 # Gerenciamento de Padaria
 
-Este projeto é um sistema de gerenciamento de padaria, que inclui funcionalidades para entrada de produtos e registro de vendas.
+Este projeto é um sistema de gerenciamento de padaria, que inclui funcionalidades para cadastro de usuário, entrada de produtos e registro de vendas.
 
 ## Pré-requisitos
 
